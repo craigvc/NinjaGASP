@@ -75,6 +75,10 @@
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/da30946a-08c2-4133-9c92-46a5697d7214"
 		},
+		{
+			"Name": "GraphNUnrealPlugin",
+			"Enabled": true
+		}
 	],
 	"EpicSampleNameHash": "1673045636"
 }
