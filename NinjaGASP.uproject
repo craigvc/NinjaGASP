@@ -69,15 +69,6 @@
 			"Name": "NinjaGAS",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/5200fc7c-2cb4-4a2e-a204-8200cebab05d"
-		},
-		{
-			"Name": "NinjaInventory",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/da30946a-08c2-4133-9c92-46a5697d7214"
-		},
-		{
-			"Name": "GraphNUnrealPlugin",
-			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "1673045636"
